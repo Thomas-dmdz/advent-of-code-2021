@@ -1,0 +1,121 @@
+name,day,part,time,score,dayofweek,weekend
+bisonfoutu,1,1,2021-12-01 09:04:40+01:00,12,False,False
+Alexandre Léonard,1,1,2021-12-01 09:05:49+01:00,11,False,False
+tchapeaux,1,1,2021-12-01 09:06:25+01:00,10,False,False
+Thomas Lenzi,1,1,2021-12-01 09:08:22+01:00,9,False,False
+Marco,1,1,2021-12-01 09:09:12+01:00,8,False,False
+Axel Manzano,1,1,2021-12-01 09:09:16+01:00,7,False,False
+Hugo Caetano,1,1,2021-12-01 09:13:32+01:00,6,False,False
+Thomas de Mondesir,1,1,2021-12-01 09:31:33+01:00,5,False,False
+Allan Guichard,1,1,2021-12-01 15:40:58+01:00,4,False,False
+GjeloshajAntoine,1,1,,0,False,False
+Mickael van der Beek,1,1,,0,False,False
+Kevin Tassi,1,1,,0,False,False
+Alexandre Léonard,1,2,2021-12-01 09:10:01+01:00,12,False,False
+Thomas Lenzi,1,2,2021-12-01 09:11:00+01:00,11,False,False
+tchapeaux,1,2,2021-12-01 09:13:54+01:00,10,False,False
+bisonfoutu,1,2,2021-12-01 09:15:20+01:00,9,False,False
+Marco,1,2,2021-12-01 09:19:06+01:00,8,False,False
+Axel Manzano,1,2,2021-12-01 09:23:56+01:00,7,False,False
+Hugo Caetano,1,2,2021-12-01 09:34:22+01:00,6,False,False
+Thomas de Mondesir,1,2,2021-12-01 09:56:27+01:00,5,False,False
+GjeloshajAntoine,1,2,,0,False,False
+Allan Guichard,1,2,,0,False,False
+Mickael van der Beek,1,2,,0,False,False
+Kevin Tassi,1,2,,0,False,False
+Alexandre Léonard,2,1,2021-12-02 09:04:14+01:00,12,False,False
+Thomas Lenzi,2,1,2021-12-02 09:04:22+01:00,11,False,False
+tchapeaux,2,1,2021-12-02 09:06:45+01:00,10,False,False
+bisonfoutu,2,1,2021-12-02 09:06:54+01:00,9,False,False
+Marco,2,1,2021-12-02 09:07:45+01:00,8,False,False
+Thomas de Mondesir,2,1,2021-12-02 09:09:03+01:00,7,False,False
+Axel Manzano,2,1,2021-12-02 09:17:22+01:00,6,False,False
+GjeloshajAntoine,2,1,2021-12-03 09:13:45+01:00,5,False,False
+Allan Guichard,2,1,,0,False,False
+Mickael van der Beek,2,1,,0,False,False
+Hugo Caetano,2,1,,0,False,False
+Kevin Tassi,2,1,,0,False,False
+Alexandre Léonard,2,2,2021-12-02 09:06:36+01:00,12,False,False
+bisonfoutu,2,2,2021-12-02 09:10:03+01:00,11,False,False
+Marco,2,2,2021-12-02 09:11:21+01:00,10,False,False
+tchapeaux,2,2,2021-12-02 09:12:38+01:00,9,False,False
+Thomas de Mondesir,2,2,2021-12-02 09:13:33+01:00,8,False,False
+Thomas Lenzi,2,2,2021-12-02 09:16:55+01:00,7,False,False
+Axel Manzano,2,2,2021-12-02 09:21:49+01:00,6,False,False
+GjeloshajAntoine,2,2,,0,False,False
+Allan Guichard,2,2,,0,False,False
+Mickael van der Beek,2,2,,0,False,False
+Hugo Caetano,2,2,,0,False,False
+Kevin Tassi,2,2,,0,False,False
+Alexandre Léonard,3,1,2021-12-03 09:09:38+01:00,12,False,False
+bisonfoutu,3,1,2021-12-03 09:11:39+01:00,11,False,False
+Marco,3,1,2021-12-03 09:13:21+01:00,10,False,False
+tchapeaux,3,1,2021-12-03 09:21:31+01:00,9,False,False
+Axel Manzano,3,1,2021-12-03 09:36:03+01:00,8,False,False
+GjeloshajAntoine,3,1,2021-12-03 09:39:56+01:00,7,False,False
+Thomas de Mondesir,3,1,2021-12-03 09:47:27+01:00,6,False,False
+Thomas Lenzi,3,1,2021-12-03 10:00:23+01:00,5,False,False
+Allan Guichard,3,1,,0,False,False
+Mickael van der Beek,3,1,,0,False,False
+Hugo Caetano,3,1,,0,False,False
+Kevin Tassi,3,1,,0,False,False
+Alexandre Léonard,3,2,2021-12-03 09:23:26+01:00,12,False,False
+bisonfoutu,3,2,2021-12-03 09:25:40+01:00,11,False,False
+tchapeaux,3,2,2021-12-03 09:44:48+01:00,10,False,False
+Thomas de Mondesir,3,2,2021-12-03 10:11:46+01:00,9,False,False
+GjeloshajAntoine,3,2,,0,False,False
+Thomas Lenzi,3,2,,0,False,False
+Allan Guichard,3,2,,0,False,False
+Axel Manzano,3,2,,0,False,False
+Mickael van der Beek,3,2,,0,False,False
+Hugo Caetano,3,2,,0,False,False
+Kevin Tassi,3,2,,0,False,False
+Marco,3,2,,0,False,False
+Alexandre Léonard,4,1,2021-12-04 08:49:37+01:00,12,True,True
+Axel Manzano,4,1,2021-12-04 09:08:39+01:00,11,True,True
+tchapeaux,4,1,2021-12-04 09:32:54+01:00,10,True,True
+bisonfoutu,4,1,2021-12-04 10:01:03+01:00,9,True,True
+Thomas de Mondesir,4,1,2021-12-04 19:15:58+01:00,8,True,True
+GjeloshajAntoine,4,1,,0,True,True
+Thomas Lenzi,4,1,,0,True,True
+Allan Guichard,4,1,,0,True,True
+Mickael van der Beek,4,1,,0,True,True
+Hugo Caetano,4,1,,0,True,True
+Kevin Tassi,4,1,,0,True,True
+Marco,4,1,,0,True,True
+tchapeaux,4,2,2021-12-04 09:37:44+01:00,12,True,True
+Axel Manzano,4,2,2021-12-04 09:40:10+01:00,11,True,True
+bisonfoutu,4,2,2021-12-04 10:29:56+01:00,10,True,True
+Alexandre Léonard,4,2,2021-12-04 13:28:24+01:00,9,True,True
+Thomas de Mondesir,4,2,2021-12-05 11:36:28+01:00,8,True,True
+GjeloshajAntoine,4,2,,0,True,True
+Thomas Lenzi,4,2,,0,True,True
+Allan Guichard,4,2,,0,True,True
+Mickael van der Beek,4,2,,0,True,True
+Hugo Caetano,4,2,,0,True,True
+Kevin Tassi,4,2,,0,True,True
+Marco,4,2,,0,True,True
+Alexandre Léonard,5,1,2021-12-05 06:32:32+01:00,12,True,True
+tchapeaux,5,1,2021-12-05 09:07:18+01:00,11,True,True
+Axel Manzano,5,1,2021-12-05 09:57:16+01:00,10,True,True
+bisonfoutu,5,1,2021-12-05 10:00:17+01:00,9,True,True
+Thomas de Mondesir,5,1,2021-12-05 12:45:44+01:00,8,True,True
+GjeloshajAntoine,5,1,,0,True,True
+Thomas Lenzi,5,1,,0,True,True
+Allan Guichard,5,1,,0,True,True
+Mickael van der Beek,5,1,,0,True,True
+Hugo Caetano,5,1,,0,True,True
+Kevin Tassi,5,1,,0,True,True
+Marco,5,1,,0,True,True
+Alexandre Léonard,5,2,2021-12-05 06:43:33+01:00,12,True,True
+tchapeaux,5,2,2021-12-05 09:37:08+01:00,11,True,True
+Axel Manzano,5,2,2021-12-05 10:15:09+01:00,10,True,True
+bisonfoutu,5,2,2021-12-05 10:38:32+01:00,9,True,True
+Thomas de Mondesir,5,2,2021-12-05 16:56:57+01:00,8,True,True
+GjeloshajAntoine,5,2,,0,True,True
+Thomas Lenzi,5,2,,0,True,True
+Allan Guichard,5,2,,0,True,True
+Mickael van der Beek,5,2,,0,True,True
+Hugo Caetano,5,2,,0,True,True
+Kevin Tassi,5,2,,0,True,True
+Marco,5,2,,0,True,True
